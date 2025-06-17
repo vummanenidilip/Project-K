@@ -46,7 +46,6 @@ The system operates as a sequential graph with two main nodes:
 * Python 3.8+
 * `pip` package manager
 * OpenAI API Key
-* Hugging Face API Key (if you plan to extend with Hugging Face models)
 
 ### Steps
 
